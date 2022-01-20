@@ -2,6 +2,8 @@ import "./App.css";
 import logo from "./logo.svg";
 import { About } from "./About";
 import "bootstrap/dist/css/bootstrap.min.css";
+import Carousel from 'react-bootstrap/Carousel'
+
 import * as ReactBootStrap from "react-bootstrap";
 import img1 from "./img1.jpeg";
 import img2 from "./img2.jpg";
@@ -14,7 +16,7 @@ import img9 from "./img9.png";
 import i1 from "./i1.jpg";
 import i3 from "./i3.jpg";
 import i2 from "./i2.jpg";
-
+import download from "./download (1).jpg";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { Link } from "react-router-dom";
 
@@ -22,16 +24,16 @@ let wow1 = {
   marginLeft: "1250px",
 };
 let style = {
-  minWidth: "400px",
-  minHeight: "400px",
+  minWidth: "200px",
+  minHeight: "200px",
 };
 
 let light = {
   color: "white",
 };
 let size = {
-  width: "50px",
-  height: "50px",
+  width: "1px",
+  height: "1px",
   padding: "5px",
 };
 
@@ -105,7 +107,7 @@ function App() {
                         <img
                           style={style}
                           className="d-block w-100"
-                          src={img1}
+                          src={download}
                           alt="First slide"
                         />
                         <ReactBootStrap.Carousel.Caption>
@@ -163,7 +165,7 @@ function App() {
                       <ReactBootStrap.Button
                         className="btn btn-success"
                         variant="primary"
-                        href="https://rzp.io/l/9qZJbg5"
+                        href="https://rzp.io/l/68IC5Nb"
                       >
                         Donate
                       </ReactBootStrap.Button>
