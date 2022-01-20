@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Payment_Gateway_Integration-TheSparksFoundation/static/css/main.050cd4f5.chunk.css",
+    "main.js": "/Payment_Gateway_Integration-TheSparksFoundation/static/js/main.1cc94024.chunk.js",
+    "main.js.map": "/Payment_Gateway_Integration-TheSparksFoundation/static/js/main.1cc94024.chunk.js.map",
+    "runtime-main.js": "/Payment_Gateway_Integration-TheSparksFoundation/static/js/runtime-main.cd8065d1.js",
+    "runtime-main.js.map": "/Payment_Gateway_Integration-TheSparksFoundation/static/js/runtime-main.cd8065d1.js.map",
+    "static/css/2.818011ed.chunk.css": "/Payment_Gateway_Integration-TheSparksFoundation/static/css/2.818011ed.chunk.css",
+    "static/js/2.27e99586.chunk.js": "/Payment_Gateway_Integration-TheSparksFoundation/static/js/2.27e99586.chunk.js",
+    "static/js/2.27e99586.chunk.js.map": "/Payment_Gateway_Integration-TheSparksFoundation/static/js/2.27e99586.chunk.js.map",
+    "static/js/3.13894c46.chunk.js": "/Payment_Gateway_Integration-TheSparksFoundation/static/js/3.13894c46.chunk.js",
+    "static/js/3.13894c46.chunk.js.map": "/Payment_Gateway_Integration-TheSparksFoundation/static/js/3.13894c46.chunk.js.map",
+    "index.html": "/Payment_Gateway_Integration-TheSparksFoundation/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Payment_Gateway_Integration-TheSparksFoundation/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.050cd4f5.chunk.css.map": "/Payment_Gateway_Integration-TheSparksFoundation/static/css/main.050cd4f5.chunk.css.map",
+    "static/js/2.27e99586.chunk.js.LICENSE.txt": "/Payment_Gateway_Integration-TheSparksFoundation/static/js/2.27e99586.chunk.js.LICENSE.txt",
+    "static/media/i2.2c17fd31.jpg": "/Payment_Gateway_Integration-TheSparksFoundation/static/media/i2.2c17fd31.jpg",
+    "static/media/img1.cf02b7ae.jpeg": "/Payment_Gateway_Integration-TheSparksFoundation/static/media/img1.cf02b7ae.jpeg",
+    "static/media/img2.3ee366c4.jpg": "/Payment_Gateway_Integration-TheSparksFoundation/static/media/img2.3ee366c4.jpg",
+    "static/media/img3.5c204f01.jpg": "/Payment_Gateway_Integration-TheSparksFoundation/static/media/img3.5c204f01.jpg",
+    "static/media/logo.6ce24c58.svg": "/Payment_Gateway_Integration-TheSparksFoundation/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd8065d1.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.27e99586.chunk.js",
+    "static/css/main.050cd4f5.chunk.css",
+    "static/js/main.1cc94024.chunk.js"
+  ]
+}
